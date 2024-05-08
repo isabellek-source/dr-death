@@ -31,6 +31,7 @@ Think of a dashboard like your car’s dashboard. It shows you the most importan
 Imagine if instead of telling someone how many apples and oranges you have, you could just show them a picture with colourful bars or lines representing each fruit — that’s what these visualisations are. They make it easier to see and understand differences and patterns, like comparing how many apples you sold in June versus July.
 
 ## Data Context
+We've used two data sets: shipman-confirmed-victims.csv and shipman-times-comparison.csv 
 The data includes confirmed and estimated death counts spanning from 1975 to 1998. It was structured around various parameters, such as the age, gender, time of death, and location of death of the victims. This comprehensive dataset allowed for a multidimensional analysis of the patterns that could have hinted at the sinister nature of Dr. Death's activities much earlier.
 
 ## Power BI Dashboard
