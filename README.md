@@ -89,6 +89,6 @@ The integration of data analytics into crime investigation heralds a new era of 
 
 ## Sources
 
-https://www.nobledesktop.com/classes-near-me/blog/data-analytics-in-crime-prediction-and-prevention
-https://www.shiksha.com/online-courses/articles/crime-prediction-using-data-science/
-https://moldstud.com/articles/p-the-role-of-data-science-in-criminal-justice-predictive-policing-and-forensic-analysis
+- https://www.nobledesktop.com/classes-near-me/blog/data-analytics-in-crime-prediction-and-prevention
+- https://www.shiksha.com/online-courses/articles/crime-prediction-using-data-science/
+- https://moldstud.com/articles/p-the-role-of-data-science-in-criminal-justice-predictive-policing-and-forensic-analysis
