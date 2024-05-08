@@ -86,3 +86,9 @@ While data analytics offers numerous advantages, it also comes with challenges s
 #### Conclusion
 
 The integration of data analytics into crime investigation heralds a new era of policing and forensic science. As technology advances, the capabilities of law enforcement will continue to evolve, making crime solving more sophisticated and comprehensive. This progression enhances the effectiveness of criminal investigations and supports the broader goals of public safety and security.
+
+## Sources
+
+https://www.nobledesktop.com/classes-near-me/blog/data-analytics-in-crime-prediction-and-prevention
+https://www.shiksha.com/online-courses/articles/crime-prediction-using-data-science/
+https://moldstud.com/articles/p-the-role-of-data-science-in-criminal-justice-predictive-policing-and-forensic-analysis
