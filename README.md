@@ -3,7 +3,7 @@
 ## Introduction
 This project utilises Microsoft Power BI to analyse and visualise the pattern of crimes committed by Harold Shipman, infamously known as Dr. Death, who was convicted of the murder of 15 of his patients, with a suspected total of 215 victims. The goal of this analysis is to provide a detailed overview of the victims' demographics and the timeline of the murders.
 
-###What’s Power BI?
+### What’s Power BI?
 Imagine you have a big box of old photographs, documents, and notes about various topics. Each piece of paper or photograph tells you something interesting, but to really understand what's going on, you need to organise them. 
 
 **Power BI** is like a magical table where you can spread out all these items. It helps you organise them neatly, find connections between them, and then display everything in a way that's easy to understand. It turns your box of mixed-up papers into a clear, colourful display, like a poster, where each piece of information is shown as a chart or graph.
