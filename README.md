@@ -33,8 +33,10 @@ Think of a dashboard like your car’s dashboard. It shows you the most importan
 ### Key Features:
 - **Drag-and-Drop**: Imagine being able to move your photographs around on a board with just your fingertips. That's what drag-and-drop is — moving things around on your screen easily to organise them.
 - **DAX (Data Analysis Expressions)**: This is like having a smarter calculator that helps you find out exactly what you need from your data.
+
 ![alt text](Captures_bi/dax.jpeg)
 - **Power Query**: Consider this to be a super-efficient filing system that helps you get your data neat and ready for use.
+
 ![alt text](Captures_bi/powerquery.png)
 
 ### Types of Visualisations:
