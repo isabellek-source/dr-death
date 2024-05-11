@@ -1,15 +1,23 @@
 # Analysis of Dr. Death's Crimes Using Power BI
 
+![alt text](Captures_bi/killer-doctor-the-harold-shipman-case.jpg)
+
 ## Introduction
 This project utilises Microsoft Power BI to analyse and visualise the pattern of crimes committed by Harold Shipman, infamously known as Dr. Death, who was convicted of the murder of 15 of his patients, with a suspected total of 215 victims. The goal of this analysis is to provide a detailed overview of the victims' demographics and the timeline of the murders.
 
 ### What’s Power BI?
 Imagine you have a big box of old photographs, documents, and notes about various topics. Each piece of paper or photograph tells you something interesting, but to really understand what's going on, you need to organise them. 
 
+![alt text](Captures_bi/power-bi.png)
+
 **Power BI** is like a magical table where you can spread out all these items. It helps you organise them neatly, find connections between them, and then display everything in a way that's easy to understand. It turns your box of mixed-up papers into a clear, colourful display, like a poster, where each piece of information is shown as a chart or graph.
+
+![alt text](Captures_bi/_9cac7e50-10eb-4ab8-b20e-3cb8eff23006.jpg)
 
 ### What is a Dashboard?
 Think of a dashboard like your car’s dashboard. It shows you the most important information at a glance — how fast you’re going, how much fuel you have. A Power BI dashboard does something similar, but for your business or project. It shows you the key pieces of information from your data on one screen, so you can see what’s happening at a glance.
+
+![alt text](Captures_bi/_483b6f18-1bfb-40ef-94ad-4fce3bea7db4.jpg)
 
 ### Advantages and Disadvantages:
 **Advantages:**
@@ -25,7 +33,9 @@ Think of a dashboard like your car’s dashboard. It shows you the most importan
 ### Key Features:
 - **Drag-and-Drop**: Imagine being able to move your photographs around on a board with just your fingertips. That's what drag-and-drop is — moving things around on your screen easily to organise them.
 - **DAX (Data Analysis Expressions)**: This is like having a smarter calculator that helps you find out exactly what you need from your data.
+![alt text](Captures_bi/dax.jpeg)
 - **Power Query**: Consider this to be a super-efficient filing system that helps you get your data neat and ready for use.
+![alt text](Captures_bi/powerquery.png)
 
 ### Types of Visualisations:
 Imagine if instead of telling someone how many apples and oranges you have, you could just show them a picture with colourful bars or lines representing each fruit — that’s what these visualisations are. They make it easier to see and understand differences and patterns, like comparing how many apples you sold in June versus July.
@@ -44,11 +54,32 @@ The dashboard designed in Power BI offers interactive visualisations that highli
 ## Analysis Findings
 Our analysis confirms that the majority of the victims were elderly women, primarily aged between 75 and 84. The deadliest years were 1997, followed closely by 1995 and 1996. A significant number of the murders were committed during the early hours, suggesting a methodical approach to the crimes.
 
+![alt text](Captures_bi/_89fb752f-0ce7-47ad-b711-25edd0df009b.jpg)
+
 ## Visualisations
-(Screenshots here)
+First Page
+![alt text](Captures_bi/Page1_drdeath.png)
+
+Seconde Page
+![alt text](Captures_bi/Page2_drdeath.png)
+
+Third Page
+![alt text](Captures_bi/Page3_drdeath.png)
 
 ## Conclusion
 The data analysis through Power BI provided profound insights into the modus operandi of Harold Shipman. The ability to visualise complex datasets with such tools underlines the importance of data analytics in forensic investigations to potentially prevent future crimes.
+
+Dr. Death, a notorious doctor-killer, committed murders between 1975 and 1998, with an annual death toll ranging from 1 to 37. The deadliest year was 1997, followed by 1995 and 1996. 
+
+He displayed a clear preference for elderly women, with 178 out of 215 presumed victims being women. 
+All 15 confirmed victims were also women. 
+The most targeted age groups were 80-84 years, 75-79 years, 70-74 years, and 85-89 years, with individuals aged 81 being most frequently targeted. 
+
+Dr. Shipman, known for his organized methods, typically killed his victims in their own homes, preferring the time slot between 1 PM and 4 PM. 
+
+The deadliest days were the 17th and 24th of each month, while the least deadly were the 5th and 19th. December emerged as the deadliest month, followed by February and March. October recorded the fewest victims.
+
+Beware of pickpockets.
 
 ### Data Analytics in Crime Investigation
 
